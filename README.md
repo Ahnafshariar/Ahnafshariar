@@ -18,4 +18,3 @@ I am passionate about uncovering hidden patterns and securing digital landscapes
 - **Plum**: [Profile](https://secure.plum.io/p/gDBzL9-BXDrcHXXsqVPG4g)
 
 Feel free to reach out if you want to collaborate on projects or just want to connect.
-https://secure.plum.io/p/gDBzL9-BXDrcHXXsqVPG4g
