@@ -7,7 +7,7 @@
 I am passionate about uncovering hidden patterns and securing digital landscapes. I enjoy working on projects that blend technology and security to solve complex problems.
 
 ## 🚀 Skills
-- **Tools**: Volatility, Wireshark, Autopsy, Splunk
+- **Tools**: Volatility, Wireshark, Autopsy, Splunk, Kali, Network Miner, Packettracer, Bash
 - **Domains**: Digital Forensics, Cybersecurity, Robotics, BCI and Game Development.
 
 
