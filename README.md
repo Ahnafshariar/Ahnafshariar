@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Ahnaf 👋
 
-<!--
-**Ahnafshariar/Ahnafshariar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **Digital Forensics Analyst**  
+🛡️ **Cybersecurity Student**  
+🎓 **Graduate of Electrical and Electronic Engineering**
 
-Here are some ideas to get you started:
+I am passionate about uncovering hidden patterns and securing digital landscapes. I enjoy working on projects that blend technology and security to solve complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Tools**: Volatility, Wireshark, Autopsy, Splunk
+- **Domains**: Digital Forensics, Cybersecurity, Robotics, BCI and Game Development.
+
+
+## 🌐 Connect with Me
+- **Website**: [ahnaf.me](https://ahnaf.me)
+- **LinkedIn**: [Ahnaf Shariar Meraz](https://www.linkedin.com/in/ahnaf-shariar-meraz/)
+- **Behance**: [Portfolio](https://www.behance.net/ahnafshariarmeraz)
+- **Plum**: [Profile](https://secure.plum.io/fp/We1uTHvi59VIi4uoq1Vv5w)
+
+Feel free to reach out if you want to collaborate on projects or just want to connect.
