@@ -15,6 +15,7 @@ I am passionate about uncovering hidden patterns and securing digital landscapes
 - **Website**: [ahnaf.me](https://ahnaf.me)
 - **LinkedIn**: [Ahnaf Shariar Meraz](https://www.linkedin.com/in/ahnaf-shariar-meraz/)
 - **Behance**: [Portfolio](https://www.behance.net/ahnafshariarmeraz)
-- **Plum**: [Profile](https://secure.plum.io/fp/We1uTHvi59VIi4uoq1Vv5w)
+- **Plum**: [Profile](https://secure.plum.io/p/gDBzL9-BXDrcHXXsqVPG4g)
 
 Feel free to reach out if you want to collaborate on projects or just want to connect.
+https://secure.plum.io/p/gDBzL9-BXDrcHXXsqVPG4g
