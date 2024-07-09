@@ -7,8 +7,8 @@
 I am passionate about uncovering hidden patterns and securing digital landscapes. I enjoy working on projects that blend technology and security to solve complex problems.
 
 ## 🚀 Skills
-- **Tools**: Volatility, Wireshark, Autopsy, Splunk, Kali, Network Miner, Packettracer, Bash
-- **Domains**: Digital Forensics, Cybersecurity, Robotics, BCI and Game Development.
+- **Tools**: Sumologic, Volatility, Wireshark, Autopsy, Splunk, Kali, Ubuntu Network Miner, Packettracer, Bash, YARA, Suricata, SIGMA
+- **Domains**: Digital Forensics, Incident Response, Vulnerability Assessment, Security Operation Center, Robotics, BCI and Game Development.
 
 
 ## 🌐 Connect with Me
