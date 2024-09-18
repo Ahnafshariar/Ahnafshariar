@@ -13,7 +13,7 @@ I am passionate about uncovering hidden patterns and securing digital landscapes
 
 ## 🌐 Connect with Me
 - **Website**: [ahnaf.me](https://ahnaf.me)
-- **LinkedIn**: [Ahnaf Shariar Meraz](https://www.linkedin.com/in/ahnaf-shariar-meraz/)
+- **LinkedIn**: [Ahnaf Shariar](https://www.linkedin.com/in/ahnaf-shariar-meraz/)
 - **Behance**: [Portfolio](https://www.behance.net/ahnafshariarmeraz)
 - **Plum**: [Profile](https://secure.plum.io/p/gDBzL9-BXDrcHXXsqVPG4g)
 
