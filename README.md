@@ -1,7 +1,7 @@
 # Hi there, I'm Ahnaf 👋
 
 🔍 **Digital Forensics Analyst**  
-🛡️ **Cybersecurity Student**  
+🛡️ **Graduate Certificate on Cybersecurity**  
 🎓 **Graduate of Electrical and Electronic Engineering**
 
 I am passionate about uncovering hidden patterns and securing digital landscapes. I enjoy working on projects that blend technology and security to solve complex problems.
