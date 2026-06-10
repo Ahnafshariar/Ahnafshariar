@@ -5,19 +5,18 @@
   │  HOW TO USE:                                                     │
   │  1. Create (or open) a repo named exactly: Ahnafshariar          │
   │  2. Drop this file in as README.md                               │
-  │  3. ⚠️ REPLACE the 4 featured-repo slugs below (search "REPLACE")│
-  │     with your real repo names, or the cards will render broken.  │
+  │  3. Pin the featured repos in your profile settings to match.    │
   └──────────────────────────────────────────────────────────────┘
 -->
 
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0ea5e9,100:06b6d4&height=200&section=header&text=Md%20Ahnaf%20Shariar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Networking%20%E2%80%A2%20DevOps&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0ea5e9,100:06b6d4&height=200&section=header&text=Md%20Ahnaf%20Shariar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20Security%20%E2%80%A2%20Cloud%20Security%20%E2%80%A2%20Blue%20Team&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://ahnaf.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Cybersecurity+Trainer+%26+Program+Coordinator;CISSP+%7C+CCNA+%7C+ISC2+CC+Certified;Pursuing+CCNP+Enterprise+%E2%86%92+ENCOR+%2F+ENARSI;Building+EVE-NG+Labs+%26+AWS+Deployments+in+Public" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Network+Security+%2B+Cloud+Security;Blue+Team+Mindset+%E2%80%94+Detect%2C+Respond%2C+Harden;CISSP+%7C+CCNA+%7C+ISC2+CC+Certified;Pursuing+CCNP+Enterprise+%E2%86%92+ENCOR+%2F+ENARSI;Building+Defensive+Labs+in+Public" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -41,19 +40,21 @@
 name:       Md Ahnaf Shariar
 location:   Toronto, Ontario, Canada 🇨🇦
 role:       Cybersecurity Trainer & Program Coordinator @ Cyberproof Canada
-focus:      Transitioning into DevOps + Networking (built on a security foundation)
+focus:      Network Security + Cloud Security (defensive / blue team)
+mindset:    Detect → Respond → Harden
 education:  B.Sc. Electrical & Electronic Engineering · PG Cert. Cybersecurity
 languages:  English, Bengali
 ```
 
-I'm an engineer who moved from **electrical & electronic engineering** into **real-time
-3D visualization**, then into **cybersecurity** — and I'm now deepening into **networking
-and DevOps**. I like the part of the job where systems, security, and infrastructure meet:
-building labs, breaking things on purpose, and documenting the fix so the next person
-doesn't have to relearn it.
+I'm a security-minded engineer specializing in **network security and cloud security**
+with a **blue team mindset** — focused on defending infrastructure rather than just running
+it. My path ran from **electrical & electronic engineering** through **real-time 3D
+visualization** into **cybersecurity**, and the networking and cloud work I do today is all
+in service of one question: *how do you detect, respond to, and harden against what's
+coming?*
 
-I learn in public — turning weekly progress on networking labs and cloud deployments into
-write-ups so the work is visible and verifiable.
+I learn in public — building defensive labs and documenting detections, hardening steps,
+and the reasoning behind them so the work is visible and verifiable.
 
 <!-- ===================== OPEN TO WORK ===================== -->
 ## 💼 Open to Work
@@ -61,7 +62,7 @@ write-ups so the work is visible and verifiable.
 <table>
   <tr>
     <td><b>🎯 Target Fields</b></td>
-    <td>DevOps / Cloud · Network Engineering · Cybersecurity / SOC</td>
+    <td>Network Security · Cloud Security · Blue Team / SOC · Security Operations</td>
   </tr>
   <tr>
     <td><b>🌍 Open to Relocate</b></td>
@@ -93,39 +94,40 @@ write-ups so the work is visible and verifiable.
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
-**🌐 Networking**
+**🛡️ Blue Team & Security Operations**
+
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SentinelOne-6B0AEA?style=for-the-badge&logo=sentinelone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata%20IDS-EE3424?style=for-the-badge&logo=suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/YARA-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sigma%20Rules-008272?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Volatility-1A1A2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autopsy-4B6584?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+**🌐 Network Security**
 
 <p>
   <img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/EVE--NG-1A1A2E?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/VLAN%20%2F%20802.1Q-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLAN%20Segmentation-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/802.1Q%20Trunking-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firewall%20%26%20ACLs-34495E?style=for-the-badge" />
 </p>
 
-**☁️ DevOps & Cloud**
+**☁️ Cloud Security**
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonvpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPC%20%2F%20Subnets-FF9900?style=for-the-badge&logo=amazonvpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%20Groups-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2%20Hardening-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-**🛡️ Security & Forensics**
-
-<p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suricata-EE3424?style=for-the-badge&logo=suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/YARA-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sigma-008272?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Volatility-1A1A2E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Autopsy-4B6584?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 **💻 Languages**
@@ -139,30 +141,24 @@ write-ups so the work is visible and verifiable.
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 📌 Featured Projects
 
-> ⚠️ **EDIT BEFORE PUBLISHING:** Replace each `repo=REPLACE-...` value below with your
-> real repository names so the cards render. Delete any card you don't want.
-
 <p align="center">
-  <a href="https://github.com/Ahnafshariar/REPLACE-ccnp-labs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahnafshariar&repo=REPLACE-ccnp-labs&theme=tokyonight" />
+  <a href="https://github.com/Ahnafshariar/Memory-Dump-Automation-Script">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahnafshariar&repo=Memory-Dump-Automation-Script&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Ahnafshariar/REPLACE-devops-deployments">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahnafshariar&repo=REPLACE-devops-deployments&theme=tokyonight" />
+  <a href="https://github.com/Ahnafshariar/CCNP-ENCOR-Preparation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahnafshariar&repo=CCNP-ENCOR-Preparation&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Ahnafshariar/REPLACE-encor-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahnafshariar&repo=REPLACE-encor-portfolio&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Ahnafshariar/REPLACE-fourth-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahnafshariar&repo=REPLACE-fourth-repo&theme=tokyonight" />
+  <a href="https://github.com/Ahnafshariar/WebScrapping-www.tintenalarm.de-Product-Data-Scrap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahnafshariar&repo=WebScrapping-www.tintenalarm.de-Product-Data-Scrap&theme=tokyonight" />
   </a>
 </p>
 
-**What you'll find in these repos:**
-- 🧪 **CCNP / EVE-NG Labs** — hands-on labs (VLANs, trunking, routing) with topology diagrams, verification commands + expected output, and troubleshooting notes
-- ☁️ **DevOps Deployments** — a Node.js app taken from local → Ngrok tunnel → AWS EC2 (PM2 + NGINX reverse proxy) → AWS VPC with public/private subnets
-- 📝 **Learning in Public** — weekly write-ups documenting the journey (Git/GitHub, Ngrok, EC2, VPC, ENCOR)
+**About these projects:**
+- 🌐 **[CCNP-ENCOR-Preparation](https://github.com/Ahnafshariar/CCNP-ENCOR-Preparation)** — Hands-on EVE-NG networking labs and notes toward the CCNP Enterprise track, with topologies, verification commands, and troubleshooting
+- 🧠 **[Memory-Dump-Automation-Script](https://github.com/Ahnafshariar/Memory-Dump-Automation-Script)** — Bash automation for Windows memory forensics with Volatility 3: one command runs an 8-plugin triage sweep (processes, network artifacts, credential hives, user activity) for fast DFIR analysis
+- 🐍 **[WebScrapping-tintenalarm.de](https://github.com/Ahnafshariar/WebScrapping-www.tintenalarm.de-Product-Data-Scrap)** — Python product-data scraper demonstrating automation and data-collection skills
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
@@ -185,7 +181,7 @@ write-ups so the work is visible and verifiable.
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-> _"Build it, break it, document it."_
+> _"Detect. Respond. Harden."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0ea5e9,100:1e3a8a&height=120&section=footer" width="100%"/>
 
