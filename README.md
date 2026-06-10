@@ -184,6 +184,17 @@ and the reasoning behind them so the work is visible and verifiable.
 
 > _"Detect. Respond. Harden."_
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0ea5e9,100:1e3a8a&height=120&section=footer" width="100%"/>
+<p align="center">
+  <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+    <defs>
+      <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#0ea5e9;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <path d="M0,60 C150,120 350,0 600,60 C850,120 1050,0 1200,60 L1200,120 L0,120 Z" fill="url(#waveGrad)"/>
+  </svg>
+</p>
 
 </div>
