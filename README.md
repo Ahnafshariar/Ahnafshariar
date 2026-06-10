@@ -98,6 +98,7 @@ and the reasoning behind them so the work is visible and verifiable.
 
 <p>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sumologic-000000?style=for-the-badge&logo=sumologic&logoColor=blue" />
   <img src="https://img.shields.io/badge/SentinelOne-6B0AEA?style=for-the-badge&logo=sentinelone&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Suricata%20IDS-EE3424?style=for-the-badge&logo=suricata&logoColor=white" />
