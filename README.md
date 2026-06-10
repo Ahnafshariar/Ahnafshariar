@@ -172,7 +172,6 @@ and the reasoning behind them so the work is visible and verifiable.
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-> _ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Network+Security+%2B+Cloud+Security;Blue+Team+Mindset+%E2%80%94+Detect%2C+Respond%2C+Harden;CISSP+%7C+CCNA+%7C+ISC2+CC+Certified;Pursuing+CCNP+Enterprise+%E2%86%92+ENCOR+%2F+ENARSI;Detect. Respond. Harden." alt="Typing SVG" /> "_
 > _"Detect. Respond. Harden."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0ea5e9,100:1e3a8a&height=120&section=footer" width="100%"/>
