@@ -70,7 +70,7 @@ and the reasoning behind them so the work is visible and verifiable.
   </tr>
   <tr>
     <td><b>🕐 Availability</b></td>
-    <td>Shift work · Travel · On-call · Authorized to work in Canada</td>
+    <td>Full-time · Contract · Travel · On-call · Authorized to work in Canada</td>
   </tr>
   <tr>
     <td><b>📨 Reach me</b></td>
