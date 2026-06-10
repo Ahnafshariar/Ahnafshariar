@@ -66,7 +66,6 @@ and the reasoning behind them so the work is visible and verifiable.
   </tr>
   <tr>
     <td><b>🌍 Open to Relocate</b></td>
-    <td>🇨🇦 Canada · 🇲🇾 Malaysia · 🇸🇬 Singapore · 🇹🇼 Taiwan · Middle East</td>
   </tr>
   <tr>
     <td><b>🕐 Availability</b></td>
