@@ -1,13 +1,3 @@
-<!--
-  ┌──────────────────────────────────────────────────────────────┐
-  │  GitHub Profile README for @Ahnafshariar                        │
-  │                                                                  │
-  │  HOW TO USE:                                                     │
-  │  1. Create (or open) a repo named exactly: Ahnafshariar          │
-  │  2. Drop this file in as README.md                               │
-  │  3. Pin the featured repos in your profile settings to match.    │
-  └──────────────────────────────────────────────────────────────┘
--->
 
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
@@ -182,19 +172,9 @@ and the reasoning behind them so the work is visible and verifiable.
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
+> _ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Network+Security+%2B+Cloud+Security;Blue+Team+Mindset+%E2%80%94+Detect%2C+Respond%2C+Harden;CISSP+%7C+CCNA+%7C+ISC2+CC+Certified;Pursuing+CCNP+Enterprise+%E2%86%92+ENCOR+%2F+ENARSI;Detect. Respond. Harden." alt="Typing SVG" /> "_
 > _"Detect. Respond. Harden."_
 
-<p align="center">
-  <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-    <defs>
-      <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#0ea5e9;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path d="M0,60 C150,120 350,0 600,60 C850,120 1050,0 1200,60 L1200,120 L0,120 Z" fill="url(#waveGrad)"/>
-  </svg>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0ea5e9,100:1e3a8a&height=120&section=footer" width="100%"/>
 
 </div>
