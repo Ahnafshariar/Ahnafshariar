@@ -175,6 +175,6 @@ and the reasoning behind them so the work is visible and verifiable.
 
 > _"Detect. Respond. Harden."_
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0ea5e9,100:06b6d4&height=200&" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0ea5e9,100:1e3a8a&height=120&section=footer" width="100%"/>
 
 </div>
