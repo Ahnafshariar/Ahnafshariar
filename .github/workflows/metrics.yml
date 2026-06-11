@@ -1,18 +1,4 @@
-# ============================================================================
-#  GitHub Metrics — powered by lowlighter/metrics
-#  Renders static SVGs and commits them to this repo, so they're served from
-#  your own repo and never break like rate-limited third-party proxy cards.
-#
-#  SETUP (one time):
-#    1. Create a CLASSIC Personal Access Token (NO scopes needed):
-#       GitHub → Settings → Developer settings → Personal access tokens
-#       → Tokens (classic) → Generate new token (classic)
-#       ⚠️ Must be "classic" — fine-grained tokens are rejected by metrics.
-#    2. Add it as a repo secret named exactly:  METRICS_TOKEN
-#       Repo → Settings → Secrets and variables → Actions → New repository secret
-#    3. Commit this file to:  .github/workflows/metrics.yml
-#    4. Run it once by hand:  Actions tab → "GitHub Metrics" → Run workflow
-# ============================================================================
+
 
 name: GitHub Metrics
 
@@ -52,18 +38,6 @@ jobs:
           plugin_languages_details: percentage, bytes-size
           plugin_languages_sections: most-used
           plugin_languages_colors: github
-
-          # Coding habits — most active days/hours, with charts
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-
-          # Recent activity feed (public events only — works with a scopeless token)
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
 
           # Lines of code changed
           plugin_lines: yes
