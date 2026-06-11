@@ -1,3 +1,13 @@
+<!--
+  ┌──────────────────────────────────────────────────────────────┐
+  │  GitHub Profile README for @Ahnafshariar                        │
+  │                                                                  │
+  │  HOW TO USE:                                                     │
+  │  1. Create (or open) a repo named exactly: Ahnafshariar          │
+  │  2. Drop this file in as README.md                               │
+  │  3. Pin the featured repos in your profile settings to match.    │
+  └──────────────────────────────────────────────────────────────┘
+-->
 
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
@@ -60,7 +70,7 @@ and the reasoning behind them so the work is visible and verifiable.
   </tr>
   <tr>
     <td><b>🕐 Availability</b></td>
-    <td>Full-time · Contract · Travel · On-call · Authorized to work in Canada</td>
+    <td>Shift work · Travel · On-call · Authorized to work in Canada</td>
   </tr>
   <tr>
     <td><b>📨 Reach me</b></td>
@@ -84,49 +94,90 @@ and the reasoning behind them so the work is visible and verifiable.
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
-**🛡️ Blue Team & Security Operations**
+**🌐 Networking & Network Security**
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco%20Routers%20%26%20Switches-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLANs%20%2F%20802.1Q-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Subnetting-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OSPF%20%2F%20EIGRP-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VPN-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DNS-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DHCP-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LAN%2FWAN-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/EVE--NG-1A1A2E?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+**🛡️ Security, SIEM & Blue Team**
 
 <p>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sumologic-522E85?style=for-the-badge&logo=sumologic&logoColor=white" />
-  <img src="https://img.shields.io/badge/SentinelOne-6B0AEA?style=for-the-badge&logo=sentinelone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suricata%20IDS-EE3424?style=for-the-badge&logo=suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sumo%20Logic-000099?style=for-the-badge&logo=sumologic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SentinelOne%20EDR-6B0AEA?style=for-the-badge&logo=sentinelone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Incident%20Response-C0392B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-E63946?style=for-the-badge&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/YARA-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sigma%20Rules-008272?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Volatility-1A1A2E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Autopsy-4B6584?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Magnet%20Forensics-0b5394?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
-**🌐 Network Security**
+**🔬 Digital Forensics**
 
 <p>
-  <img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/EVE--NG-1A1A2E?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/VLAN%20Segmentation-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/802.1Q%20Trunking-34495E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Firewall%20%26%20ACLs-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Volatility%203-1A1A2E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FTK%20Imager-4B6584?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autopsy-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Magnet%20Forensics-0F4C81?style=for-the-badge" />
 </p>
 
-**☁️ Cloud Security**
+**☁️ Cloud & DevOps**
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
   <img src="https://img.shields.io/badge/VPC%20%2F%20Subnets-FF9900?style=for-the-badge&logo=amazonvpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security%20Groups-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/EC2%20Hardening-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-**💻 Languages**
+**🖥️ Systems & Administration**
+
+<p>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Group%20Policy-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+</p>
+
+**🧩 Virtualization**
+
+<p>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white" />
+</p>
+
+**💿 Operating Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+**💻 Scripting & Automation**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
@@ -148,25 +199,23 @@ and the reasoning behind them so the work is visible and verifiable.
 </p>
 
 **About these projects:**
-- 🌐 **[CCNP-ENCOR-Preparation](https://github.com/Ahnafshariar/CCNP-ENCOR-Preparation)** — Hands-on EVE-NG networking labs and notes toward the CCNP Enterprise track, with topologies, verification commands, and troubleshooting
 - 🧠 **[Memory-Dump-Automation-Script](https://github.com/Ahnafshariar/Memory-Dump-Automation-Script)** — Bash automation for Windows memory forensics with Volatility 3: one command runs an 8-plugin triage sweep (processes, network artifacts, credential hives, user activity) for fast DFIR analysis
+- 🌐 **[CCNP-ENCOR-Preparation](https://github.com/Ahnafshariar/CCNP-ENCOR-Preparation)** — Hands-on EVE-NG networking labs and notes toward the CCNP Enterprise track, with topologies, verification commands, and troubleshooting
 - 🐍 **[WebScrapping-tintenalarm.de](https://github.com/Ahnafshariar/WebScrapping-www.tintenalarm.de-Product-Data-Scrap)** — Python product-data scraper demonstrating automation and data-collection skills
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
+<!-- ===================== GITHUB METRICS ===================== -->
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahnafshariar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnafshariar&layout=compact&theme=tokyonight&hide_border=true" />
+<!--
+  These SVGs are generated by lowlighter/metrics via GitHub Actions and
+  committed into the repo, so they always load (no broken proxy icons).
+  See .github/workflows/metrics.yml
+-->
+<img src="./metrics.svg" alt="Ahnaf Shariar — GitHub metrics" width="100%" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahnafshariar&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ahnafshariar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="./metrics.isocalendar.svg" alt="Isometric contribution calendar" width="100%" />
 
 </div>
 
