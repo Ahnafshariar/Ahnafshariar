@@ -1,23 +1,48 @@
-
 name: GitHub Metrics
-
+ 
 on:
   schedule:
     - cron: "0 6 * * *"          # daily at 06:00 UTC
   workflow_dispatch:              # manual trigger from the Actions tab
   push:
     branches: ["main"]            # refresh on push to main
-
+ 
 permissions:
   contents: write                 # lets the action commit the SVGs back
-
+ 
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-
+ 
       # ----------------------------------------------------------------------
-      #  ISOMETRIC CALENDAR  →  metrics.isocalendar.svg
+      #  1) STATS PANEL  →  metrics.svg
+      #     Header + activity/community stats + repositories + language bar.
+      #     (Only the panels that render reliably with a scopeless token.)
+      # ----------------------------------------------------------------------
+      - name: Stats panel
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}   # commit via GITHUB_TOKEN to avoid re-trigger loops
+          user: Ahnafshariar
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Toronto
+ 
+          # Language breakdown (colored bar)
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+ 
+          # Lines of code changed
+          plugin_lines: yes
+ 
+      # ----------------------------------------------------------------------
+      #  2) ISOMETRIC CALENDAR  →  metrics.isocalendar.svg
       #  3D full-year contribution calendar (GitHub Stats cards in the README
       #  are handled by github-readme-stats, no token needed for those).
       # ----------------------------------------------------------------------
@@ -32,7 +57,7 @@ jobs:
           config_timezone: America/Toronto
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
+ 
           # Recolor the contribution scale to match the cyan/navy banner.
           # These are GitHub's standard calendar CSS variables: empty day +
           # four intensity levels (L1 lightest → L4 brightest).
@@ -45,3 +70,4 @@ jobs:
               --color-calendar-graph-day-L4-bg: #38bdf8 !important;
             }
             h2 { color: #0ea5e9 !important; }
+ 
