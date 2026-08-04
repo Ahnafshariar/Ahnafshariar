@@ -16,7 +16,7 @@
 
 <!-- Typing animation -->
 <a href="https://ahnaf.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Network+Security+%2B+Cloud+Security;Blue+Team+Mindset+%E2%80%94+Detect%2C+Respond%2C+Harden;CISSP+%7C+CCNA+%7C+ISC2+CC+Certified;Pursuing+CCNP+Enterprise+%E2%86%92+ENCOR+%2F+ENARSI;Building+Defensive+Labs+in+Public" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Network+Security+%2B+Cloud+Security;Blue+Team+Mindset+%E2%80%94+Detect%2C+Respond%2C+Harden;Associate+Of+ISC2+%7C+CCNA+%7C+ISC2+CC+Certified;Pursuing+CCNP+Enterprise+%E2%86%92+ENCOR+%2F+ENARSI;Building+Defensive+Labs+in+Public" alt="Typing SVG" />
 </a>
 
 <br/>
