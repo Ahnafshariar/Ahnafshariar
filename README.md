@@ -82,7 +82,7 @@ and the reasoning behind them so the work is visible and verifiable.
 ## 🏅 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/Associate-of-ISC2%20Jan%202025-A100FF?style=flat-square&logo=isc2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Associate_of_ISC2-Jan_2025-A100FF?style=flat-square&logo=isc2&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/ISC2-CC-A100FF?style=flat-square&logo=isc2&logoColor=white" />
   <img src="https://img.shields.io/badge/SentinelOne-IR%20Engineer-6B0AEA?style=flat-square&logo=sentinelone&logoColor=white" />
