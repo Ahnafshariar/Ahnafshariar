@@ -39,7 +39,7 @@
 ```yaml
 name:       Md Ahnaf Shariar
 location:   Toronto, Ontario, Canada 🇨🇦
-role:       Cybersecurity Trainer & Program Coordinator @ Cyberproof Canada
+role:       IT/OT Security Analyst Intern, Northland Power Inc.
 focus:      Network Security + Cloud Security (defensive / blue team)
 mindset:    Detect → Respond → Harden
 education:  B.Sc. Electrical & Electronic Engineering · PG Cert. Cybersecurity
